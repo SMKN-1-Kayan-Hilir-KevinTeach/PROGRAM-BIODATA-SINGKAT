@@ -19,7 +19,7 @@ void main ()
 	cout<<endl;
 	}
 	cout <<"\t\t =====================================\n"<<endl;
-	cout <<"\t\t Data Show InputSiswa SMKN 1 Kayan Hilir " <<endl;
+	cout <<"\t\t Data Show Input Siswa SMKN 1 Kayan Hilir " <<endl;
 	 cout << "Nama \t\t : "<< nama <<endl;
 	 cout << "Alamat \t\t :" << alamat <<endl;
 	 cout << "tempatlahir \t\t :" << tempatlahir <<endl;
